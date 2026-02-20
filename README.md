@@ -1,0 +1,25 @@
+Problem Description
+Now, meteorologists have to manually take down every value and then calculate the value for theoretical power. This is a very time taking process and there are chances for human errors. As this decides how much energy will be produced, any kind of error will cost a huge amount to the government. Also, there is no fixed formula for calculating Theoretical power. They depend on a number of factors. Hence, we have to come up with a solution such that the work for meteorologists is decreased and also efficiency is increased.
+
+
+Expected Solutions
+Our aim is to map weather data to energy production. We wish to show that even data that is publicly available for weather stations close to wind farms can be used to give a good prediction of the energy output. Furthermore, we examine the impact of different weather conditions on the energy output of techniques to predict the energy output of wind farms. We are building web app to predict the energy output of wind turbine and weather condition of a city
+
+
+
+There are 4 main steps in creating the web-app:
+Step 1 - Data Preprocessing
+Step 2 - Building Models
+Step 3 - UI Integration
+Step 4 - Hosting, Storage & Deployment
+
+
+Technologies & Tools
+-Python
+-flask
+-vscode
+-spder
+-weather API
+-HTML
+-CSS
+-LOCALHOST
